@@ -1,13 +1,3 @@
-/**
-* Grup çalışması - team developers
-* Mehmet DAĞLI     / 22120205382
-* Mert Akmahmut    / 23120205082
-* Lawend Tash      / 21120205702
-* Abdurrahman Kaya / 20120205317
-
-* ChatGPT'den yararlandığımız noktalar oldu,
-* Bazı fonksiyonların nasıl çalıştığını ve nasıl kullanıldıklarını sorduk.
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
